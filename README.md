@@ -1,59 +1,45 @@
-# 📊 **Pandas Notebook Series**
+# 📊 Pandas Learning Repository
+<p align="center"> <b>Simple and practical Pandas notebooks for Data Analysis</b> </p>
 
-<p align="center">
-  <b>Step-by-step Pandas practice for Data Analysis & Machine Learning</b>
-</p>
 
----
+## About
 
-## ✨ About
-
-This repository contains **well-structured Jupyter notebooks** for learning **Pandas** from **basics to intermediate level**.
-Each notebook focuses on **one concept** with practical examples.
+This repository contains **practice notebooks for Pandas**, focused on **data analysis tasks**.
+The notebooks cover commonly used operations required to **clean, transform, and analyze datasets**.
 
 ---
 
-## 📚 Notebook Roadmap
+## What is Practiced Here
 
-```
-📘 01_pandas(series).ipynb                → Series fundamentals  
-📘 02_pandas(series-oprations).ipynb      → Series operations  
-📘 03_pandas(Dataframe).ipynb             → DataFrame basics  
-📘 04_pandas(Dataframe_oprations).ipynb   → DataFrame operations  
-📘 05_pandas(Read_csv).ipynb              → Reading CSV files  
-📘 06_pandas(Drop-NaN-valuse).ipynb       → Drop missing values  
-📘 07_Pandas(Fill-NaN-values).ipynb       → Fill missing values  
-📘 08_pandas(replace()func).ipynb         → replace() function  
-📘 09_pandas(interpolate()func).ipynb     → interpolate() function  
-📘 10_pandas(loc_&_iloc).ipynb            → loc & iloc indexing  
-📘 11_pandas(groupby()).ipynb             → GroupBy operations  
-📘 12_pandas(concat()).ipynb              → Concatenation  
-📘 13_pandas(join()).ipynb                → Join operations  
-📘 14_pandas(merge()).ipynb               → Merge operations  
-📘 15_pandas(melt()).ipynb                → Melt (reshape) data  
-```
+* Working with **Series and DataFrame**
+* Reading CSV files
+* Handling **missing values**
+* Data filtering and indexing
+* Grouping and aggregation
+* Combining datasets
+* Reshaping data
+* Sorting and counting values
+* Applying functions to columns and rows
 
 ---
 
-## 🛠 Tech Stack
+## Tools Used
 
-* 🐍 Python
-* 🧮 Pandas
-* 📓 Jupyter Notebook
-
----
-
-## 🎯 What You Will Learn
-
-* Pandas **Series & DataFrame**
-* **Missing value handling**
-* Data **filtering & indexing**
-* **GroupBy, Merge, Join & Reshape**
-* Data preparation for **ML & Analysis**
+* Python
+* Pandas
+* Jupyter Notebook
 
 ---
 
-## ⚙️ Setup
+## Purpose
+
+* Practice **data cleaning and analysis**
+* Build a base for **EDA**
+* Prepare data for further analysis or ML tasks
+
+---
+
+## How to Run
 
 ```bash
 pip install pandas
@@ -62,22 +48,5 @@ jupyter notebook
 
 ---
 
-## 👨‍💻 Ideal For
-
-* Data Analysis beginners
-* AI & Data Science students
-* Interview & internship preparation
-
----
-
-## ✍️ Author
-
-**Bhavesh Hatwar**   
-AI & Data Science Undergraduate   
-📌 Python | Pandas | Machine Learning
-
----
-
-⭐ *If you find this useful, feel free to star the repository.*
-
+⭐ If you find this helpful, consider starring the repository.
 ---
