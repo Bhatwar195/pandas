@@ -43,7 +43,7 @@ The notebooks cover commonly used operations required to **clean, transform, and
 
 ```bash
 pip install pandas
-jupyter notebook
+jupyter notebook 
 ```
 
 ---
